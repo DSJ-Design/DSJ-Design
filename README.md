@@ -1,0 +1,3 @@
+- 👋 Hi, we are @DSJ-Design
+- 👀 A startup in webdesing/development
+- 📫 How to reach us; info@dsj-design.com
